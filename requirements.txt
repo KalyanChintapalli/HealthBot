@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-openai
+langchain-mistralai
+langchain-community
+langchain-core
+langchain-tavily
+python-dotenv
+notebook
